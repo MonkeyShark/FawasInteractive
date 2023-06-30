@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🐑, I'm FawaStudios.</h1>
+<h1 align="center">Hey! I'm FawaStudios 🐑</h1>
 <h3 align="center">Game developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
