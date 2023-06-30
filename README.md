@@ -1,6 +1,8 @@
 <h1 align="center">Hey! I'm FawaStudios 🐑</h1>
 <h3 align="center">A game developer working on various projects.</h3>
 
+- 🤡 I’m primarily working on [a game called Clown Clear](https://www.clownclear.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fawastudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fawastudios" height="30" width="40" /></a>
