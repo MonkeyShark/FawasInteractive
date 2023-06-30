@@ -1,2 +1,13 @@
-<h1 align="center">Hey! I'm FawaStudios 🐑</h1>
-<h3 align="center">A game developer working on various projects.</h3>
+## Hey! I'm FawaStudios 🐑
+
+`Game Developer working on various projects.`
+
+## Games
+- 🤡 Clown Clear: https://www.clownclear.com/
+- 🎃 Click or Treat: https://www.fawastudios.com/games/chimpchowder
+- 🐒 Chimp Chowder: https://www.fawastudios.com/games/chimpchowder
+
+## Socials
+- 📺 YouTube: https://www.youtube.com/@FawaStudios
+- 🐦 Twitter: https://twitter.com/FawaStudios
+- 👨‍👨‍👦‍👦 Discord: https://discord.com/invite/BGg7pRxaUe
