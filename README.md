@@ -4,7 +4,7 @@
 
 ## Games
 - 🤡 Clown Clear: https://www.clownclear.com/
-- 🎃 Click or Treat: https://www.fawastudios.com/games/chimpchowder
+- 🎃 Click or Treat: https://www.fawastudios.com/games/clickortreat
 - 🐒 Chimp Chowder: https://www.fawastudios.com/games/chimpchowder
 
 ## Socials
