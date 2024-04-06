@@ -1,4 +1,4 @@
-## Hey! I'm FawaStudios 🐑
+## Hey! Welcome to Fawas Interactive 🐑
 
 `Game Developer working on various projects.`
 
