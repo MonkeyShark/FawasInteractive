@@ -4,10 +4,10 @@
 
 ## Games
 - 🤡 Clown Clear: https://www.clownclear.com/
-- 🎃 Click or Treat: https://www.fawastudios.com/games/clickortreat
-- 🐒 Chimp Chowder: https://www.fawastudios.com/games/chimpchowder
+- 🎃 Click or Treat: https://www.fawasinteractive.com/games/clickortreat
+- 🐒 Chimp Chowder: https://www.fawasinteractive.com/games/chimpchowder
 
 ## Socials
-- 📺 YouTube: https://www.youtube.com/@FawaStudios
-- 🐦 Twitter: https://twitter.com/FawaStudios
+- 📺 YouTube: https://www.youtube.com/@FawasInteractive
+- 🐦 Twitter: https://twitter.com/FawasInteract
 - 👨‍👨‍👦‍👦 Discord: https://discord.com/invite/BGg7pRxaUe
