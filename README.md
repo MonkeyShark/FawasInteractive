@@ -1,6 +1,6 @@
 ## Mostly here for my company Fawas Interactive 🐑
 
-`Game Developer working on various projects.`
+`Working on various ambitious projects. I love S&box, Halloween, zombies, horror, and everything about technology 😎`
 
 ## Games
 - 🤡 Clown Clear: https://www.clownclear.com/
